@@ -1,0 +1,55 @@
+body{
+    font-family: "Ubuntu";
+}
+
+nav{
+    background-color: white;
+}
+.nav-link{
+    color: black;
+}
+
+.bro{
+ height: 400px;
+ width: 300px;
+}
+.learn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* #navigator{
+    background-color:red;
+    
+    margin: 200px 100px;
+    position: relative;
+
+} */
+h2{
+    font-family: 'Montserrat-black', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.row{
+    margin : 60px 30px; 
+    padding: 70px 150px;
+}
+.pics{
+   margin-top: 50px;
+}
+.shift{
+    margin-right: 15px;;
+}
+.container{
+    background-color: white;
+   
+    margin-top: 100px;
+    position: relative; 
+}
+.move{
+    margin-right: 25px;;
+}
+
+.register{
+    border: 1px solid;
+    padding: 10px 50px;
+}
